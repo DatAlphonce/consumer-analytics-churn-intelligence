@@ -18,21 +18,21 @@ This project demonstrates an end-to-end consumer analytics solution designed to 
 ## Dashboards
 
 ### Executive Consumer Scorecard
-![Executive Dashboard](images/executive_scorecard.png)
+[Executive Scorecard](images/executive_scorecard.png)
 
 *Provides leadership with a consolidated view of revenue, ARPU, churn, and customer base performance.*
 
 ---
 
 ### Regional & Commercial Performance
-![Regional Performance](images/regional_performance.png)
+[Regional Performance Dashboard](images/regional_performance.png)
 
 *Highlights regional differences in revenue contribution, ARPU, and digital penetration.*
 
 ---
 
 ### Churn Risk & Customer Intelligence
-![Churn Risk Dashboard](images/churn_risk_dashboard.png)
+[Churn Risk Dashboard](images/churn_risk_dashboard.png)
 
 *Identifies high-risk customer cohorts to support proactive CVM interventions.*
 
