@@ -1,0 +1,3 @@
+-- Mart layer transformations
+-- Purpose: Create business-ready consumer tables
+-- Outputs: customers, revenue_monthly, usage_monthly, churn_events

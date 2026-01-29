@@ -1,0 +1,2 @@
+-- Churn modeling base table
+-- Purpose: Feature set for predictive churn model

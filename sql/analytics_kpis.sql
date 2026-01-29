@@ -1,0 +1,3 @@
+-- Analytics layer
+-- Purpose: Single source of truth KPIs
+-- KPIs: ARPU, Churn Rate, Contribution, Digital Penetration
